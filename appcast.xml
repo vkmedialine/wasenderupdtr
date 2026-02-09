@@ -8,7 +8,7 @@
             <sparkle:version>2.0</sparkle:version>
             <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vkmedialine/wasender_updt/releases/download/v2.0/WaSender.dmg" length="1313728" type="application/octet-stream" sparkle:edSignature="vSdR8tCkosIZbMqULMIUClX72tmj1fhF9H2YHKie5hClsmt8WU4e7JF+inCvXaVDHB6KRlAIeb1UmSahs3O3CQ=="/>
+            <enclosure url="https://github.com/vkmedialine/wasenderupdtr/releases/download/v2.0/WaSender.dmg" length="1313728" type="application/octet-stream" sparkle:edSignature="vSdR8tCkosIZbMqULMIUClX72tmj1fhF9H2YHKie5hClsmt8WU4e7JF+inCvXaVDHB6KRlAIeb1UmSahs3O3CQ=="/>
         </item>
     </channel>
 </rss>

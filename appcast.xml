@@ -4,11 +4,11 @@
         <title>WaSender</title>
         <item>
             <title>2.2</title>
-            <pubDate>Mon, 09 Feb 2026 10:07:04 +0530</pubDate>
-            <sparkle:version>2.1</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <pubDate>Mon, 09 Feb 2026 13:54:00 +0530</pubDate>
+            <sparkle:version>2.2</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vkmedialine/wasenderupdtr/releases/download/2.1/WaSender.dmg" length="1313728" type="application/octet-stream" sparkle:edSignature="vSdR8tCkosIZbMqULMIUClX72tmj1fhF9H2YHKie5hClsmt8WU4e7JF+inCvXaVDHB6KRlAIeb1UmSahs3O3CQ=="/>
+            <enclosure url="https://github.com/vkmedialine/wasenderupdtr/releases/download/2.1/WaSender.dmg" length="1302312" type="application/octet-stream" sparkle:edSignature="ouDjgztKc5tSOL5Ivo4AT5/0ekSEDCeDHyvRRf2n/xL98ZbzE8Cwo2JhLfqSqEUFegI9Be5OFtbOQr8H4YLICg=="/>
         </item>
     </channel>
 </rss>
